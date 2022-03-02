@@ -35,6 +35,8 @@ $ sudo github-label-sync --access-token [액세스 토큰] --labels .github/labe
 
 사용 방법은 비교적 간단하며 [여기](https://github.com/release-drafter/release-drafter) 에서 상세 내용에 대해 확인할 수 있다.
 
+<br>
+
 ## 그 외 기타 파일
 
 .gitignore 파일을 통해 Git 버전관리에서 제외할 파일 및 디렉토리를 지정할 수 있다. 
