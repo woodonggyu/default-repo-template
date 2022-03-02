@@ -1,8 +1,7 @@
 name: "Update CHANGELOG.md"
 on:
-  push:
-    branches:
-      - main
+  release:
+    types: [published]
 
 jobs:
   update-changelog:
