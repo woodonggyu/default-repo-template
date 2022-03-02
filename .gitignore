@@ -320,6 +320,9 @@ $RECYCLE.BIN/
 *.lnk
 
 ### Node ###
+
+package-lock.json
+
 # Logs
 logs
 *.log
